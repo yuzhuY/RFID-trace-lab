@@ -27,3 +27,5 @@ According to the three times communications we derived, we can see it is a part 
 In this way, the three
 times communication between reader and tag are identified as ACK(RN16),
 reply,Req RN.
+
+More details can be seen in file [RFID_trace_lab_Report.pdf](https://github.com/yuzhuY/RFID-trace-lab/blob/master/RFID_trace_Lab_Report.pdf)
