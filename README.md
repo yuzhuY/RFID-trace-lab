@@ -22,3 +22,8 @@ consider it as a Req RN command. According to following table from given referen
 
 ##Conclusion
 According to the three times communications we derived, we can see it is a part of the following showed communication between reader and tag:
+<p align="center"><img src="https://github.com/yuzhuY/RFID-trace-lab/blob/master/CommunicationBetweenReaderAndTag.jpg" width="250">
+
+In this way, the three
+times communication between reader and tag are identified as ACK(RN16),
+reply,Req RN.
